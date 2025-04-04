@@ -1,0 +1,17 @@
+2025-04-04 07:39:34.549778 - Received CBT.V508.FILE309.PDS from FILE309.XMI 
+2025-04-04 07:39:34.550752 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE309.PDS, moved to PDS/$$$#DATE
+2025-04-04 07:39:34.550892 - Found @FILE309.txt (text/plain) in CBT.V508.FILE309.PDS, moved to PDS/@FILE309
+2025-04-04 07:39:34.551034 - Found ALGOLGEN.jcl (text/plain) in CBT.V508.FILE309.PDS, moved to PDS/ALGOLGEN
+2025-04-04 07:39:34.551165 - Found IEX00.txt (text/plain) in CBT.V508.FILE309.PDS, moved to PDS/IEX00
+2025-04-04 07:39:34.551289 - Found IEX10.txt (text/plain) in CBT.V508.FILE309.PDS, moved to PDS/IEX10
+2025-04-04 07:39:34.551450 - Found IEX11.txt (text/plain) in CBT.V508.FILE309.PDS, moved to PDS/IEX11
+2025-04-04 07:39:34.551584 - Found IEX20.txt (text/plain) in CBT.V508.FILE309.PDS, moved to PDS/IEX20
+2025-04-04 07:39:34.551727 - Found IEX21.txt (text/plain) in CBT.V508.FILE309.PDS, moved to PDS/IEX21
+2025-04-04 07:39:34.551874 - Found IEX21M.txt (text/plain) in CBT.V508.FILE309.PDS, moved to PDS/IEX21M
+2025-04-04 07:39:34.552011 - Found IEX30.txt (text/plain) in CBT.V508.FILE309.PDS, moved to PDS/IEX30
+2025-04-04 07:39:34.552136 - Found IEX31.txt (text/plain) in CBT.V508.FILE309.PDS, moved to PDS/IEX31
+2025-04-04 07:39:34.552258 - Found IEX31M.txt (text/plain) in CBT.V508.FILE309.PDS, moved to PDS/IEX31M
+2025-04-04 07:39:34.552376 - Found IEX40.txt (text/plain) in CBT.V508.FILE309.PDS, moved to PDS/IEX40
+2025-04-04 07:39:34.552509 - Found IEX50.txt (text/plain) in CBT.V508.FILE309.PDS, moved to PDS/IEX50
+2025-04-04 07:39:34.552653 - Found IEX51.txt (text/plain) in CBT.V508.FILE309.PDS, moved to PDS/IEX51
+2025-04-04 07:39:34.552782 - Found IEX51M.txt (text/plain) in CBT.V508.FILE309.PDS, moved to PDS/IEX51M
